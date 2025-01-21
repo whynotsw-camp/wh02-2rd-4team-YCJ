@@ -1,194 +1,144 @@
-# 2nd-template
-whynotsw-camp 2nd-template 레포지토리입니다.
+## 📺 ~~NO~~ "YES" Country for Old Men  🔉
 
-----------------------------
+---------------------------------------
 
-## 훈련생들에게 보여주기 위한 템플릿
+# 프로젝트 계획서
 
-----------------------------
+## 1. 🎂 프로젝트 개요
+- **프로젝트명**: ~~NO~~ "YES" Country for Old Men : 노년층 고객을 위한 개인 건강 컨텐츠 채널 추천
+- **목표** 
+   1. 사용자 데이터 수집 시스템
+   2. 건강 상태 분석 상태 알고리즘
+   3. 맞춤형 카테고리 추천 시스템
+   4. YouTube API 연동
+   5. 사용자 인터페이스개발
+- **기간**: 2024년 7월 - 2025년 1월
 
-# 프로젝트 기획서
+## 2. ⏰ 프로젝트 일정
+- **분석 및 설계**: 2024년 12월 23일 - 12월 30일
+- **프로토 타입 개발**: 2024년 12월 30일 - 2025년 1월 20일
+- **최종 프로젝트 개발 및 테스트**: 2025년 1월 21일 - 2024년 1월 23일
 
-## 1. 프로젝트 정의
-- **목표**: 상담 이력 데이터를 활용한 [목표] 도출
-- **주요 기능**:
-  - 데이터 수집 및 전처리
-  - 데이터 시각화 및 보고
+## 3. 💪 팀 구성(이름을 클릭하면 해당 인원의 Git으로 이동)
+|이름|[하지원](https://github.com/imnothotzzi)|[배지빈](https://github.com/jb0617)|[박승균](https://github.com/kyun8996)|[정지민](https://github.com/triaria159)|[이재민](https://github.com/jaemin-lee00)|
+|---|:---:|:---:|:---:|:---:|:---:|
+|역할|PM/FE|빅데이터, AI|빅데이터, AI|인프라, BE|BE|
 
-## 2. 주요 내용
-- **프로젝트 기간**: YYYY-MM-DD ~ YYYY-MM-DD
-- **참여 인원**: [팀원 이름]
-- **데이터 사용처**: [데이터 출처]
+## 4.📚 STACKS
+* 주 개발 언어
 
-## 3. 일정 계획
-![Gantt 차트]
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 
-| 작업 항목                  | 시작 날짜   | 종료 날짜   | 기간(일) |
-|---------------------------|------------|------------|---------|
-| 프로젝트 정의 및 계획 수립  | 2024-01-01 | 2024-01-07 | 7       |
-| 자료 조사 및 벤치마킹       | 2024-01-08 | 2024-01-14 | 7       |
-| 아이디어 도출 및 시나리오 작성 | 2024-01-15 | 2024-01-21 | 7       |
-| 요구사항 도출 및 WBS 작성   | 2024-01-22 | 2024-01-28 | 7       |
-| Prototype 개발 및 검토     | 2024-01-29 | 2024-02-04 | 7       |
-| 최종 검토 및 발표 준비     | 2024-02-05 | 2024-02-07 | 3       |
-| 프로젝트 발표              | 2024-02-08 | 2024-02-08 | 1       |
+* 웹 구현
 
------------------------------
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white) <br>
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![RollupJS](https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
-# 작업 분할 구조 (WBS)
+* 데이터 분석
 
-## 단계별 작업 내용
-### 1. 데이터 정의 및 요구사항 분석
-1.1. 데이터 정의  
-1.2. 상담 이력 데이터 검토  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white)
 
-### 2. 데이터 수집 및 설계
-2.1. 아키텍처 설계  
-2.2. 데이터 수집 및 전처리  
+* 클라우드
 
-### 3. 분석 및 보고
-3.1. 데이터 검증 및 모델링  
-3.2. 대시보드 및 보고서 작성  
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
 
-### 시각 자료
-![WBS 다이어그램](../assets/wbs_chart.png)
+---------------------------------------
 
----------------------------
+# 🏁 기획서
+[IPTV 채널 추천 서비스 기획서 PDF 파일](https://github.com/whynotsw-camp/wh01-3rd-3team-UTIDAL/blob/main/Report/%5BKDT%5D%203%E1%84%8E%E1%85%A1%20%E1%84%80%E1%85%B5%E1%84%92%E1%85%AC%E1%86%A8%E1%84%89%E1%85%A5_%E1%84%8B%E1%85%AE%E1%84%90%E1%85%B5%E1%84%83%E1%85%A1%E1%86%AF.pdf)
 
-# 요구사항 정의서
 
-## 1. 기능 요구사항
-- 상담 이력 데이터를 수집하고 분석 가능해야 함
-- 데이터 전처리 및 EDA 기능 포함
-- 대시보드와 보고서 생성
+---------------------------------------
 
-## 2. 비기능 요구사항
-- 처리 성능: 데이터 수집 및 전처리는 1시간 내로 완료
-- 확장성: 추가 데이터 소스 연동 가능
+# 📕 요구사항 정의서
+[IPTV 채널 추천 서비스 요구사항 정의서 PDF 파일](https://github.com/whynotsw-camp/wh01-3rd-3team-UTIDAL/blob/main/Report/%5BKDT%5D%20IPTV%20%E1%84%8E%E1%85%A2%E1%84%82%E1%85%A5%E1%86%AF%20%E1%84%8E%E1%85%AE%E1%84%8E%E1%85%A5%E1%86%AB%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%203%E1%84%90%E1%85%B5%E1%86%B7_%E1%84%8B%E1%85%AD%E1%84%80%E1%85%AE%E1%84%89%E1%85%A1%E1%84%92%E1%85%A1%E1%86%BC%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A5.pdf)
 
----------------------------
+----------------------------------------
 
-# 프로젝트 설계서
+# ✈️ WBS
+[IPTV 채널 추천 서비스 WBS 엑셀 파일](https://github.com/whynotsw-camp/wh01-3rd-3team-UTIDAL/raw/refs/heads/main/Report/%5BKDT%5D%20IPTV%20%E1%84%8E%E1%85%A2%E1%84%82%E1%85%A5%E1%86%AF%20%E1%84%8E%E1%85%AE%E1%84%8E%E1%85%A5%E1%86%AB%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%203%E1%84%90%E1%85%B5%E1%86%B7_WBS.xlsx)
 
-## 1. 데이터 아키텍처
-- **설계 개요**:
-  - 데이터 수집: [수집 방식]
-  - 데이터 저장: [저장 방식]
-  - 분석 및 시각화: [사용 기술]
 
-## 2. 기술 스택
-- 데이터 수집: Python, API 연동
-- 분석 및 처리: Pandas, NumPy
-- 시각화: Matplotlib, Dash
+-----------------------------------------
 
-## 3. 설계 이미지
-![아키텍처 다이어그램](../assets/architecture_diagram.png)
+# 📚 모델 정의서 및 성능 평가서
+[IPTV 채널 추천 서비스 모델 정의서 및 성능평가서](https://github.com/whynotsw-camp/wh01-3rd-3team-UTIDAL/blob/main/Report/%5BKDT%5D%20IPTV%20%E1%84%8E%E1%85%A2%E1%84%82%E1%85%A5%E1%86%AF%20%E1%84%8E%E1%85%AE%E1%84%8E%E1%85%A5%E1%86%AB%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%203%E1%84%90%E1%85%B5%E1%86%B7_%E1%84%86%E1%85%A9%E1%84%83%E1%85%A6%E1%86%AF%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A5%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%91%E1%85%A7%E1%86%BC%E1%84%80%E1%85%A1%E1%84%89%E1%85%A5.pdf)
 
----------------------------
+-----------------------------------------
 
-# 데이터 연동 정의서
+# 📑 최종 보고서
+- [최종 보고서 (발표 PPT.PDF)](./docs/final_report.pdf)
+<br>
 
-## 1. 데이터 정의
-- 데이터 소스: 상담 이력 데이터
-- 주요 컬럼:
-  - user_id: 사용자 ID
-  - timestamp: 상담 시간
-  - feedback: 상담 내용
+-----------------------------------------
 
-## 2. 연동 방식
-- 연동 방식: API 또는 Batch 수집
-- 연동 주기: 매일 자정
+# ✨ 회고
 
---------------------------
+<table border="1" style="border-collapse:collapse; width:100%; text-align:center;">
+  <thead>
+    <tr>
+      <th style="background-color:#f2f2f2;">팀원</th>
+      <th style="background-color:#f2f2f2;">회고록</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>하지원<br><br><a href="https://github.com/imnothotzzi" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" />
+        </a></td>
+      <td>업데이트 예정</td>
+    </tr>
+    <tr>
+      <td>배지빈<br><br><a href="https://github.com/jb0617" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" />
+        </a></td>
+      <td>업데이트 예정</td>
+    </tr>
+    <tr>
+      <td>박승균<br><br><a href="https://github.com/kyun8996" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" />
+        </a></td>
+      <td>업데이트 예정</td>
+    </tr>
+    <tr>
+      <td>정지민<br><br><a href="https://github.com/triaria159" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" />
+        </a></td>
+      <td>업데이트 예정</td>
+    </tr>
+    <tr>
+      <td>이재민<br><br><a href="https://github.com/jaemin-lee00" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" />
+        </a></td>
+      <td>업데이트 예정</td>
+    </tr>
+  </tbody>
+</table>
+<br>
 
-# 클라우드 아키텍처 설계서
+## 📌 컨벤션 및 규칙
 
-## 1. 아키텍처 개요
-- **사용 서비스**:
-  - AWS S3: 데이터 저장소
-  - AWS Lambda: 데이터 처리
-  - AWS QuickSight: 대시보드
+### 커밋 컨벤션
 
-## 2. 설계 이미지
-![클라우드 아키텍처 다이어그램](../assets/architecture_diagram.png)
+| 태그 이름        | 설명                                                                                                     | 타입 |
+| ---------------- | -------------------------------------------------------------------------------------------------------- | ---- |
+| Feat             | 새로운 기능을 추가할 경우                                                                                | 기능 |
+| Fix              | 버그를 고친 경우                                                                                         | 기능 |
+| Design           | CSS 등 사용자 UI 디자인 변경                                                                             | 기능 |
+| !BREAKING CHANGE | 커다란 API 변경의 경우                                                                                   | 기능 |
+| !HOTFIX          | 급하게 치명적인 버그를 고쳐야하는 경우                                                                   | 기능 |
+| Style            | 코드 포맷 변경, 세미 콜론 누락, 오타 수정, 탭 사이즈 변경, 변수명 변경 등 코어 로직을 안건드는 변경 사항 | 개선 |
+| Refactor         | 프로덕션 코드 리팩토링                                                                                   | 개선 |
+| Comment          | 필요한 주석 추가 및 변경                                                                                 | 개선 |
+| Docs             | 문서(Readme.md)를 수정한 경우                                                                            | 수정 |
+| Rename           | 파일 혹은 폴더명을 수정하거나 옮기는 작업만인 경우                                                       | 수정 |
+| Remove           | 파일을 삭제하는 작업만 수행한 경우                                                                       | 수정 |
+| Test             | 테스트 추가, 테스트 리팩토링(프로덕션 코드 변경 X)                                                       | 빌드 |
+| Chore            | 빌드 태스트 업데이트, 패키지 매니저를 설정하는 경우(프로덕션 코드 변경 X)                                | 빌드 |
 
--------------------------
+ex) feat: login logic add
 
-# 시각화 리포트
+### ⭐️⭐️⭐️⭐️⭐️git 규칙⭐️⭐️⭐️⭐️⭐️
 
-## 1. 분석 결과 요약
-- 상담 이력 데이터 분석 결과:
-  - 주요 패턴: [결과 요약]
-  - 통계적 분석 결과: [결과 요약]
-
-## 2. 대시보드
-![대시보드 스크린샷](../assets/dashboard_screenshot.png)
-
-## 3. 제안
-- 데이터를 기반으로 [구체적인 제안 내용]
-
---------------------------
-
-# 프로젝트 회고
-
-## 1. 프로젝트 개요
-- **프로젝트 이름**: [프로젝트 명]
-- **기간**: [YYYY-MM-DD ~ YYYY-MM-DD]
-- **팀 구성원**: [팀원 이름]
-
----
-
-## 2. 회고 주제
-### 2.1. 잘한 점 (What went well)
-- 프로젝트에서 효과적으로 수행된 작업 또는 성공 사례
-  - 예: 데이터 수집 자동화 구현 성공
-  - 예: 팀원 간 원활한 협업과 커뮤니케이션
-
----
-
-### 2.2. 개선이 필요한 점 (What could be improved)
-- 프로젝트 과정에서 비효율적이었거나 개선이 필요한 부분
-  - 예: 초기 요구사항 정의가 명확하지 않음
-  - 예: 데이터 전처리에 예상보다 시간이 많이 소요됨
-
----
-
-### 2.3. 배운 점 (Lessons learned)
-- 이번 프로젝트를 통해 학습한 내용
-  - 예: 특정 기술 도구에 대한 이해 증대 (예: AWS, Docker)
-  - 예: 데이터 파이프라인 최적화 방법
-
----
-
-### 2.4. 다음 단계 (Action items)
-- 향후 프로젝트에 적용할 개선 방안 또는 실행 계획
-  - 예: 초기 단계에서 요구사항 정의에 더 많은 시간 할당
-  - 예: 데이터 전처리 자동화 도구 도입 검토
-
----
-
-## 3. 팀원별 피드백
-- **팀원 A**:
-  - 강점: [예: 주어진 업무를 책임감 있게 수행함]
-  - 개선점: [예: 코드 리뷰 시 세부적인 피드백 추가 필요]
-  
-- **팀원 B**:
-  - 강점: [예: 데이터 분석에 창의적인 접근법 적용]
-  - 개선점: [예: 업무 진행 상황을 더 자주 공유]
-
----
-
-## 4. 프로젝트 주요 결과 요약
-- **성과**:
-  - 상담 이력 데이터를 활용한 분석 모델 개발 완료
-  - 대시보드와 보고서 배포 성공
-- **결과물**:
-  - [링크]: 프로젝트 산출물 GitHub 저장소
-  - [링크]: 시각화 대시보드
-
----
-
-## 5. 자유로운 의견
-- 프로젝트 과정 중 느낀 점, 제안 사항, 또는 기타 의견
-  - 예: 팀원들 간의 협업이 매우 원활했고, 다음 프로젝트에서도 같은 방식을 유지하고 싶음.
-  - 예: 시간 관리가 다소 아쉬웠으므로, 다음 프로젝트에서는 좀 더 구체적인 일정 관리 툴을 활용하고 싶음.
+1. 작업 브랜치 분기는 무조건 main 브랜치에서 분기한 후 작업
+2. 커밋 메세지 준수할 것.
