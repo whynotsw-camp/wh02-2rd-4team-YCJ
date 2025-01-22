@@ -106,9 +106,9 @@
   -----------------------------------------
 
   # 📚 모델 정의서 및 성능 평가서
-  [IPTV 채널 추천 서비스 모델 정의서 및 성능평가서 - 모델 정의서](https://github.com/whynotsw-camp/wh02-2rd-4team-YCJ/blob/main/Docs/%EB%AA%A8%EB%8D%B8%EC%A0%95%EC%9D%98%EC%84%9C(%EB%8B%B9%EB%87%A8%2C%EA%B0%84%EC%95%94%2C%ED%8F%90%EC%95%94).pdf)
+  [IPTV 채널 추천 서비스 모델 정의서 및 성능평가서 - 모델 정의서](https://github.com/whynotsw-camp/wh02-2rd-4team-YCJ/blob/main/Docs/%EB%AA%A8%EB%8D%B8%EC%A0%95%EC%9D%98%EC%84%9C_Final.pdf)
 
-  [IPTV 채널 추천 서비스 모델 정의서 및 성능평가서 - 추천 모델 정의서](https://github.com/whynotsw-camp/wh02-2rd-4team-YCJ/blob/main/Docs/%EB%AA%A8%EB%8D%B8%EC%A0%95%EC%9D%98%EC%84%9C(%EB%8B%B9%EB%87%A8%2C%EA%B0%84%EC%95%94%2C%ED%8F%90%EC%95%94).pdf)
+  [IPTV 채널 추천 서비스 모델 정의서 및 성능평가서 - 추천 모델 정의서](https://github.com/whynotsw-camp/wh02-2rd-4team-YCJ/blob/main/Docs/%EC%B6%94%EC%B2%9C%EB%AA%A8%EB%8D%B8%EC%A0%95%EC%9D%98%EC%84%9C_Final.pdf)
 
   -----------------------------------------
 
