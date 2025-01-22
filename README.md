@@ -20,9 +20,60 @@
 - **최종 프로젝트 개발 및 테스트**: 2025년 1월 21일 - 2024년 1월 23일
 
 ## 3. 💪 팀 구성(이름을 클릭하면 해당 인원의 Git으로 이동)
-|이름|[하지원](https://github.com/imnothotzzi)|[배지빈](https://github.com/jb0617)|[박승균](https://github.com/kyun8996)|[정지민](https://github.com/triaria159)|[이재민](https://github.com/jaemin-lee00)|
-|---|:---:|:---:|:---:|:---:|:---:|
-|역할|PM/FE|빅데이터, AI|빅데이터, AI|인프라, BE|BE|
+<table style="width:100%; text-align:center; table-layout:fixed; border-collapse:collapse;">
+  <colgroup>
+    <!-- 전체 5열이므로 20%씩 -->
+    <col style="width:20%;">
+    <col style="width:20%;">
+    <col style="width:20%;">
+    <col style="width:20%;">
+    <col style="width:20%;">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>하지원</th>
+      <th>배지빈</th>
+      <th>박승균</th>
+      <th>정지민</th>
+      <th>이재민</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="./Images/Pyke.png" style="width:150px; height:auto;" alt="지원"></td>
+      <td><img src="./Images/Galio.png" style="width:150px; height:auto;" alt="지빈"></td>
+      <td><img src="./Images/Gangplank.png" style="width:150px; height:auto;" alt="승균"></td>
+      <td><img src="./Images/Rell.png" style="width:150px; height:auto;" alt="지민"></td>
+      <td><img src="./Images/Shaco.png" style="width:150px; height:auto;" alt="재민"></td>
+    </tr>
+    <tr>
+      <td>PM<br>FE</td>
+      <td>AI<br>빅 데이터</td>
+      <td>AI<br>빅 데이터</td>
+      <td>DB구축<br>클라우드 관리</td>
+      <td>BE<br>데이터 파이프라인</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/imnothotzzi" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" />
+        </a>
+</td>
+      <td><a href="https://github.com/jb0617" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" />
+        </a></td>
+      <td><a href="https://github.com/kyun8996" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" />
+        </a></td>
+      <td><a href="https://github.com/triaria159" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" />
+        </a></td>
+      <td><a href="https://github.com/jaemin-lee00" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" />
+        </a></td>
+    </tr>
+  </tbody>
+</table>
+<br>
 
 ## 4.📚 STACKS
 * 주 개발 언어
@@ -44,23 +95,18 @@
 
 ---------------------------------------
 
-# 🏁 기획서
-[IPTV 채널 추천 서비스 기획서 PDF 파일](https://github.com/whynotsw-camp/wh01-3rd-3team-UTIDAL/blob/main/Report/%5BKDT%5D%203%E1%84%8E%E1%85%A1%20%E1%84%80%E1%85%B5%E1%84%92%E1%85%AC%E1%86%A8%E1%84%89%E1%85%A5_%E1%84%8B%E1%85%AE%E1%84%90%E1%85%B5%E1%84%83%E1%85%A1%E1%86%AF.pdf)
-
----------------------------------------
-
 # 📕 요구사항 정의서
 [IPTV 채널 추천 서비스 요구사항 정의서 PDF 파일](https://github.com/whynotsw-camp/wh02-2rd-4team-YCJ/blob/main/Docs/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD_%EC%A0%95%EC%9D%98%EC%84%9C.pdf)
 ----------------------------------------
 
 # ✈️ WBS
-[IPTV 채널 추천 서비스 WBS 엑셀 파일](https://github.com/whynotsw-camp/wh01-3rd-3team-UTIDAL/raw/refs/heads/main/Report/%5BKDT%5D%20IPTV%20%E1%84%8E%E1%85%A2%E1%84%82%E1%85%A5%E1%86%AF%20%E1%84%8E%E1%85%AE%E1%84%8E%E1%85%A5%E1%86%AB%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%203%E1%84%90%E1%85%B5%E1%86%B7_WBS.xlsx)
+[IPTV 채널 추천 서비스 WBS 엑셀 파일](https://github.com/whynotsw-camp/wh02-2rd-4team-YCJ/blob/main/Docs/WBS_01.xlsx)
 
 
 -----------------------------------------
 
 # 📚 모델 정의서 및 성능 평가서
-[IPTV 채널 추천 서비스 모델 정의서 및 성능평가서](https://github.com/whynotsw-camp/wh01-3rd-3team-UTIDAL/blob/main/Report/%5BKDT%5D%20IPTV%20%E1%84%8E%E1%85%A2%E1%84%82%E1%85%A5%E1%86%AF%20%E1%84%8E%E1%85%AE%E1%84%8E%E1%85%A5%E1%86%AB%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%203%E1%84%90%E1%85%B5%E1%86%B7_%E1%84%86%E1%85%A9%E1%84%83%E1%85%A6%E1%86%AF%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A5%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%91%E1%85%A7%E1%86%BC%E1%84%80%E1%85%A1%E1%84%89%E1%85%A5.pdf)
+[IPTV 채널 추천 서비스 모델 정의서 및 성능평가서](https://github.com/whynotsw-camp/wh02-2rd-4team-YCJ/blob/main/Docs/%EB%AA%A8%EB%8D%B8%EC%A0%95%EC%9D%98%EC%84%9C(%EB%8B%B9%EB%87%A8%2C%EA%B0%84%EC%95%94%2C%ED%8F%90%EC%95%94).pdf)
 
 -----------------------------------------
 
