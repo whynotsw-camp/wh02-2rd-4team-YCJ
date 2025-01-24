@@ -1,0 +1,10 @@
+Logs/
+Audio/
+
+# Python cache
+__pycache__/
+
+# 기타 무시할 파일들
+*.pyc
+*.pyo
+*.pyd
