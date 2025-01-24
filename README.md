@@ -50,7 +50,7 @@
         <td>PM<br>FE</td>
         <td>AI<br>빅 데이터</td>
         <td>AI<br>빅 데이터</td>
-        <td>DB구축<br>클라우드 관리</td>
+        <td>BE<br>DB 구축<br>클라우드 관리</td>
         <td>BE<br>데이터 파이프라인</td>
       </tr>
       <tr>
